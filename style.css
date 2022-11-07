@@ -30,7 +30,7 @@ header .logo {
     text-decoration: none;
     text-transform: uppercase;
     font-size: 2em;
-    font-weight: 700;
+    font-weight: 900;
     letter-spacing: 2px;
 }
 
@@ -96,7 +96,7 @@ section img#moon {
 
 #text {
     position: absolute;
-    right: -350px;
+    right: -250px;
     color: #fff;
     white-space: nowrap;
     font-size: 6.5vw;
